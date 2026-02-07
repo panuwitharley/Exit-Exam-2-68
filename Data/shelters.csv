@@ -1,0 +1,6 @@
+ID,Name,Capacity,RiskLevel
+S01,City Hall (Safe Zone),5,1
+S02,School Gym (Moderate),5,2
+S03,Mountain Base (High Risk),5,3
+S04,Hospital Basement,3,1
+S05,River Bank Camp,4,3
